@@ -1,6 +1,7 @@
-import React from "react";
-import "./Logo.css";
+import React from 'react';
 
-const logo = (props) => <h1 className="logo">Feed management</h1>;
+import './Logo.css';
+
+const logo = props => <h1 className="logo">MessageNode</h1>;
 
 export default logo;
